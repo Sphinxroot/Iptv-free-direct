@@ -1,19 +1,4 @@
-this is only for using playlistloader only on kodi whit iptv listing m3u or else.
 
-install  first: 
-repository.xbmc-avigdork-2.0.0.zip.
-
-nothing else is needed to install from this repo its for keeping depencies active.
-
-then install  plugin.video.playlistLoader-1.1.7.zip.
-
-addon intalled and ready to use.
-
-go in my add-on. 
-
-open avidor`s kodi repo  then put auto update off.
-
-note: to keep playlistloader active u can`t uninstall  the repo, that why i dont auto update it.
 
 
 
