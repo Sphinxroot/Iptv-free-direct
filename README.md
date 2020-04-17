@@ -7,7 +7,7 @@ addon video.iptv.free  will work your m3u list or xml
 
 also you can put dailymotion link and youtube as well 
 
-exemple of link you might wanna use
+exemple of link you might wanna use in your m3u list
 
 ##Dailymotion##
 
