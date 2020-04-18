@@ -1,5 +1,7 @@
 # Iptv-free-direct
 
+for android user get this addon https://github.com/Sphinxroot/for-andoid-test because 1 plugins is not compatible in android
+
 
 all modules  needed to make the addon working :) 
 
