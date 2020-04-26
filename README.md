@@ -1,9 +1,6 @@
 # Iptv-free-direct
 
-for android user get this addon https://github.com/Sphinxroot/for-andoid-test because 1 plugins is not compatible in android i will change this to optional .. next update
-
-
-all modules  needed to be installed first to  make the addon working :) 
+edited : extra addon as optional but if you want dailymotion and youtube link to work you will need them
 
 addon video.iptv.free  will load your m3u list or xml and your have a search tool built in it but for now it handle only 1 list per selection  .. online or local  m3u / xml  .. please note for pastebin link .. your need the raw paste link to work
 
