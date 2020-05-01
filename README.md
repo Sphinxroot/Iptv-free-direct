@@ -41,6 +41,8 @@ https://www.youtube.com/user/franceinfo
 
 rtmp ts m3u8 aac mp3 mp4 and so on will work .. tv and radio link as well
 
+https://github.com/Sphinxroot/plugin.video.iptv.free/raw/master/plugin.video.iptv.free.1.0.0.zip
+
 
 some tool that i use https://github.com/Sphinxroot/iptv-tool 
 
