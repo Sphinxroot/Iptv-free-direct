@@ -13,7 +13,7 @@ exemple of link you might wanna use in your list:
 /plugins supported / live or video link /
 
 #EXTINF:-1 tvg-id="New EPG" tvg-logo="https://i.ibb.co/Njj2M62/dailymotion.png" tvg-name="DailyMotion"  group-title="New Group",DM TEST link plugins
-plugin://plugin.video.dailymotion_com/?mode=playVideo&url=xxtuy6
+plugin://plugin.video.dailymotion_com/?url=xxtuy6&mode=playLiveVideo
 
 /direct link is working / live or video link /
 
